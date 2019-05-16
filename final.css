@@ -1,0 +1,17 @@
+body{ 
+    background-color: chartreuse; background-image: url("https://media.giphy.com/media/9n1lHRRv3zWBG/giphy.gif");
+    padding: 5em;
+    
+}
+img, video, audio, canvas, p{
+    display: block; 
+    margin: 0 auto;
+    padding-bottom: 2em}
+video{
+    
+}
+
+
+h1,h2{text-align: center;}
+
+p{width:750px;}
